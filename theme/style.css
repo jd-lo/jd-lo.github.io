@@ -1,8 +1,9 @@
 html, body {
-    margin: 0;
-    border: 0;
+    margin: 12px;
+    border: 1.2em;
     font-size: 100%;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #AAAAAA;
+    color: #F00FEE;
+    text-align: left;
   }
   
